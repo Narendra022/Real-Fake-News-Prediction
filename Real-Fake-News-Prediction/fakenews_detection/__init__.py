@@ -1,1 +1,0 @@
-from fakenews_detection.model import DetectModel
